@@ -16,3 +16,12 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+#aboutBody{
+    background-color: rgb(82, 78, 78);
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
